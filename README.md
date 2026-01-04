@@ -43,13 +43,5 @@ Create a `phase` variable:
 Log-linear regression:
 - `log(qty_total + 1) ~ phase + dow + month`
 
-## Repo structure (suggested)
-```text
-.
-├── stata/
-│   └── 30420_Project2_code_Group1.do
-├── report/
-│   └── 30420_Project2_report_Group1.pdf
-├── data/                      # not committed (recommended)
-├── outputs/                   # generated datasets/results
-└── README.md
+Dataset available at:
+https://www.kaggle.com/datasets/amirkhanh/synthetic-retail-dataset-1-2m-transactions
